@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Blog</title>
+    <!-- Latest compiled and minified CSS -->
+   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Smlep5jCw/wG7hdkwQ/Z5nLIefveQRIY9nfy6xoR1uRYBtpZgI6339F5dgvm/e9B" crossorigin="anonymous">
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+    <style media="screen">
+        body {
+          background-color: wheat;
+        }
+        .h1, .h2, .h3, h1, h2, h3 {
+          margin-top: -7px;
+          margin-bottom: 10px;
+        }
+        form {
+          width: 100%;
+        }
+        .navbar-inverse {
+            background-color: #80A1D4;
+        }
+        .navbar-inverse .navbar-nav>li>a {
+            color: white;
+        }
+        .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+            color:orangered;
+        }
+      </style>
+  </head>
+  <body>
+      <div class="container">
+          <div class="row">
+              <ul class="nav md-pills nav-justified pills-primary">
+                  <li class="nav-item">
+                      <a class="nav-link active " href="/">Home</a>
+                  </li>
+                  <li class="nav-item">
+                      <a class="nav-link" href="/create">Create new post</a>
+                  </li>
+                  <li class="nav-item">
+                      <a class="nav-link" href="/archive">Archives</a>
+                  </li>
+                  <li class="nav-item">
+                      <a class="nav-link" href="/contact">Contact Us</a>
+                          
+                  </li>
+              </ul>
+          
+          </div>
+          </div>
+      
+          </div>
+
+      <div class="row">
+
+        <div class="panel panel-default">
+          <div class="panel-heading"><%= posts.title %></div>
+          <div class="panel-body">
+            <p><strong><%= posts.date %></strong></p>
+            <p><%- posts.story %></p>
+          <p><strong>Author: <%= posts.author %></strong></p>
+        </div>
+
+
+    </div>
+    <footer class="page-footer font-small blue">
+
+        <!-- Copyright -->
+        <div class="footer-copyright text-center py-3">© 2018 Copyright:
+          <a href="https://mdbootstrap.com/bootstrap-tutorial/">Jamie-Lee Cupido</a>
+        </div>
+        <!-- Copyright -->
+      
+      </footer>
+
+
+
+
+    <script type="text/javascript">
+
+    </script>
+  </body>
+</html>

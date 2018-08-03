@@ -1,0 +1,57 @@
+{
+  "post": [
+    {
+      "id": 1,
+      "title": "Blessings",
+      "author": "Jamie-lee Cupido",
+      "date": "2018-06-13",
+      "image": "https://www.getinthehotspot.com/wp-content/uploads/2016/12/modern-day-missionary-1.jpg",
+      "content": "We had a double blessing today as we were able to have a baptismal service",
+      "story": "We had a double blessing today as we were able to have a baptismal service. We have been waiting for the baptismal tank to fill with rain water, but it never seemed to get full. So on Friday morning the school children grabbed jerricans large and small and ferried water from the tanks by the house over to the baptistery. Ah – all was set! Imagine our surprise on Saturday afternoon when I went out to check things only to find all of the water was gone again! Now we realized why it wasn’t filling with rain water; we had a leak somewhere. What to do? We asked the children to come at 7:00 on Sunday morning and fill it up again. What a good little troop they were as for the second time in one week they hauled water back and forth to fill the tank. But it was well worth the effort because we were able to see three people follow the Lord in believer’s baptism."
+    },
+    {
+      "id": 2,
+      "title": "Kenya ",
+      "author": "Jamie-lee Cupido",
+      "date": "2018-06-06",
+      "image": "https://s3.amazonaws.com/spweb-uploads/2016/09/Water-Collection-764x460.jpg",
+      "content": "Young, naïve, and straight out of high school, Mary came to Nairobi approximately 20 years ago..",
+      "story": "Young, naïve, and straight out of high school, Mary came to Nairobi approximately 20 years ago. Coming from the eastern part of Kenya, which depends predominantly on ever dwindling agricultural fortunes, she was buoyed by the promise of opportunities in the big city. She settled with an aunt at the expansive Mathare slums in the eastern part of the city. Mathare is the second biggest slum in Nairobi, following Africa’s biggest slum, Kibera (Care International 2009; UN-Habitat 2010). Mathare was “built” on top of a garbage dump over many years as more and more people settled there. Constructed on both sides of a stream, it is a long strip of tin and wooden shacks with earthen walls. The number of inhabitants in Mathare is estimated at between 600,000 and 800,000. It is closely located to the city centre – about five kilometres from the Nairobi Central Business District (CBD). Mathare is very densely populated, and most people live in shacks made of corrugated iron (mabati). Since it is located in small streets, all houses also border each other very closely."
+    },
+    {
+      "id": 3,
+      "title": "Libya",
+      "author": "Jamie-lee Cupido ",
+      "date": "2018-12-11",
+      "image": "https://images.csmonitor.com/csmarchives/2011/02/0224-OTRIBAL-Libya.jpg?alias=standard_600x400 ",
+      "content": "One South African and three other foreigners have been detained by Libyan authorities in the none-too-stable city of Benghazi. Their alleged crime? Preaching the Word of God (the Christian God, that is), in a country where it’s explicitly unwelcomed. SIMON ALLISON explains why this was not such a good plan. ",
+      "story": "There may be some ideas that are sillier than going to Benghazi on a mission to convert heathen natives to Christianity, but I can’t think of many. And so, if initial reports are correct and four foreigners – a South African among them – were indeed guilty of proselytising in Libya’s revolutionary capital then it’s not hard to see why they’ve ended up in a Libyan jail. In fact, they should consider themselves lucky they’re still around at all."
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "jamie",
+      "password": "1234",
+      "email": "cjamielee01@gmail.com"
+    },
+    {
+      "username": "Jamie-lee",
+      "password": "181825",
+      "email": "cjamielee01@gmail.com",
+      "id": 2
+    },
+    {
+      "username": "jarod",
+      "password": "06041999",
+      "email": "jarodbritz@gmail.com",
+      "id": 3
+    },
+    {
+      "username": "Mellow",
+      "password": "12",
+      "email": "",
+      "id": 4
+    }
+  ]
+}
