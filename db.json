@@ -52,6 +52,12 @@
       "password": "12",
       "email": "",
       "id": 4
+    },
+    {
+      "username": "jamie-lee",
+      "password": "corn",
+      "email": "cjamielee01@gmail.com",
+      "id": 5
     }
   ]
 }
